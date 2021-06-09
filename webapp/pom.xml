@@ -24,6 +24,7 @@
         <artifactId>jetty-maven-plugin</artifactId>
       </plugin>
     </plugins>
+  <finalName>${project.artifactId}##1.4.7</finalName>
   </build>
 
   <dependencies>
