@@ -82,7 +82,7 @@
         </configuration>
       </plugin>
     </plugins>
-
+    <finalName>api##1.4.7</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
